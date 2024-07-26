@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Isha Khetarpal</h1>
 <h2 align="center">A software enthusiast who likes coding.</h2>
-<h3 align="center">Hello! I'm Isha Khetarpal, currently in my pre-final year pursuing a B.Tech in Computer Science at Graphic Era Hill University. My deep passion for technology boosts my enthusiasm for coding and collaborating on exciting projects. I'm eager to connect with fellow enthusiasts and embark on innovative journeys within the realm of software engineering. Let's come together and create something amazing!💻🚀</h3>
+<h3 align="center">Hello! I'm Isha Khetarpal, currently in my final year pursuing a B.Tech in Computer Science. My deep passion for technology boosts my enthusiasm for coding and collaborating on exciting projects. I'm eager to connect with fellow enthusiasts and embark on innovative journeys within the realm of software engineering. Let's come together and create something amazing!💻🚀</h3>
 
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/691cdc5f9c4dc0e88650b97d480af9237d9422963bd1184f95e00087d3aa8bbd/68747470733a2f2f692e696d6775722e636f6d2f72486c456444712e676966">
 
